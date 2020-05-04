@@ -18,4 +18,5 @@ All of the codes, assignments and quiz answers for Deep Learning Specialization 
 
 #### Assignments
 
-- [Python Basics With Numpy](/Course1/Week2/Assignments/Python_Basics_With_Numpy.ipynb)
+- [Python Basics With Numpy](/Course1/Week2/Assignments/PythonBasicsWithNumpy/Python_Basics_With_Numpy.ipynb)
+- [Logistic Regression with a Neural Network Mindset](/Course1/Week2/Assignments/LogisticRegressionAsANeuralNetwork/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
