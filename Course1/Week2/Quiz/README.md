@@ -24,7 +24,7 @@ _10 Questions, 30 Minutes_
    ```
    What will be the shape of "c"?
 
-- c.shape = (2,3)
+   - c.shape = (2,3)
 
 5. Consider the two following random arrays "a" and "b":
 
