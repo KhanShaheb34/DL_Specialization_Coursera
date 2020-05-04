@@ -11,3 +11,7 @@ All of the codes, assignments and quiz answers for Deep Learning Specialization 
 - Python and Vectorization
   - [Vectorization Demo](/Course1//Week2/PythonAndVectorization/VectorizationDemo.ipynb)
   - [Broadcasting Example](/Course1//Week2/PythonAndVectorization/BroadcastingExample.ipynb)
+
+#### Quiz
+
+- [Neural Network Basics](/Course1//Week2/Quiz/README.md)
