@@ -15,3 +15,7 @@ All of the codes, assignments and quiz answers for Deep Learning Specialization 
 #### Quiz
 
 - [Neural Network Basics](/Course1//Week2/Quiz/README.md)
+
+#### Assignments
+
+- [Python Basics With Numpy](/Course1/Week2/Assignments/Python_Basics_With_Numpy.ipynb)
