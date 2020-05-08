@@ -20,3 +20,13 @@ All of the codes, assignments and quiz answers for Deep Learning Specialization 
 
 - [Python Basics With Numpy](/Course1/Week2/Assignments/PythonBasicsWithNumpy/Python_Basics_With_Numpy.ipynb)
 - [Logistic Regression with a Neural Network Mindset](/Course1/Week2/Assignments/LogisticRegressionAsANeuralNetwork/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+
+### Week-3: Shallow Neural Network
+
+#### Quiz
+
+- [Shallow Neural Network](/Course1/Week3/Quiz/ShallowNeuralNetworks.pdf)
+
+#### Assignments
+
+- [Planar data classification with a hidden layer](/Course1/Week3/Assignments/Planar_data_classification_with_onehidden_layer.ipynb)
