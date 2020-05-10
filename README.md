@@ -23,7 +23,7 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 
 - [Planar data classification with a hidden layer](/Course1/Week3/Assignments/Planar_data_classification_with_onehidden_layer.ipynb)
 
-### Week-4: Shallow Neural Network
+### Week-4: Deep Neural Network
 
 #### Assignments
 
