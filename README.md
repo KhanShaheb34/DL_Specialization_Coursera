@@ -33,3 +33,5 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 - [Deep Neural Network Application](/Course1/Week4/Assignments/2/Deep+Neural+Network+-+Application+v8.ipynb)
 
 > [📜 Certificate](/Certificates/Coursera-P2H6W8U2JH99.pdf)
+
+> Built a [Bangla Handwritten Digits Recognization System](https://github.com/KhanShaheb34/Bangla-Handwritten-Digit-Recognition/blob/master/BHDR_Deep_Neural_Net.ipynb) based on the knowledge from this week.
