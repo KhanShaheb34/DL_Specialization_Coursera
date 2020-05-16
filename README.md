@@ -33,3 +33,11 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 - [Deep Neural Network Application](/Course1/Week4/Assignments/2/Deep+Neural+Network+-+Application+v8.ipynb)
 
 > [📜 Certificate](/Certificates/Coursera-P2H6W8U2JH99.pdf)
+
+## Course-2: [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+
+### Week-5: Logistic Regression as a Neural Network
+
+#### Assignments
+
+- [Initialization](/Course2/Week1/Assignments/1/init_utils.py)
