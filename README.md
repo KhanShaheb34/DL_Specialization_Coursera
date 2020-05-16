@@ -46,3 +46,4 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 
 - [Initialization](/Course2/Week1/Assignments/1/Initialization.ipynb)
 - [Regularization](/Course2/Week1/Assignments/2/Regularization_v2a.ipynb)
+- [Gradient Checking](/Course2/Week1/Assignments/3/Gradient+Checking+v1.ipynb)
