@@ -45,3 +45,4 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 #### Assignments
 
 - [Initialization](/Course2/Week1/Assignments/1/Initialization.ipynb)
+- [Regularization](/Course2/Week1/Assignments/2/Regularization_v2a.ipynb)
