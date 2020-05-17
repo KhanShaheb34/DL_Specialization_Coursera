@@ -40,10 +40,16 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 
 ## Course-2: [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 
-### Week-5: Logistic Regression as a Neural Network
+### Week-5: Practical aspects of Deep Learning
 
 #### Assignments
 
 - [Initialization](/Course2/Week1/Assignments/1/Initialization.ipynb)
 - [Regularization](/Course2/Week1/Assignments/2/Regularization_v2a.ipynb)
 - [Gradient Checking](/Course2/Week1/Assignments/3/Gradient+Checking+v1.ipynb)
+
+### Week-6: Optimization algorithms
+
+#### Assignments
+
+- [Optimization](/Course2/Week2/Assignments/Optimization_methods_v1b.ipynb)
