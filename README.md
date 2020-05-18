@@ -53,3 +53,11 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 #### Assignments
 
 - [Optimization](/Course2/Week2/Assignments/Optimization_methods_v1b.ipynb)
+
+### Week-6: Hyperparameter tuning, Batch Normalization and Programming Frameworks
+
+#### Assignments
+
+- [Tensorflow](/Course2/Week3/Assignments/TensorFlow_Tutorial_v3b.ipynb)
+
+> [📜 Certificate](/Certificates/Coursera-S28RU3GTXJWQ.pdf)
