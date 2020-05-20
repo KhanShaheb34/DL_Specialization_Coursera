@@ -61,3 +61,9 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 - [Tensorflow](/Course2/Week3/Assignments/TensorFlow_Tutorial_v3b.ipynb)
 
 > [📜 Certificate](/Certificates/Coursera-S28RU3GTXJWQ.pdf)
+
+## Course-3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+
+This course does not have any Programming Assignments.
+
+> [📜 Certificate](/Certificates/Coursera-W74F4Z2E5WXZ.pdf)
