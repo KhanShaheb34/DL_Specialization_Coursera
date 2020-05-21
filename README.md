@@ -79,3 +79,5 @@ This course does not have any Programming Assignments.
 #### Assignments
 
 - [Convolutional Model: step by step](/Course4/Assignments/Convolution_model_Step_by_Step_v2a.ipynb)
+
+- [Convolutional Neural Networks: Application](/Course4/Assignments/Convolution_model_Application_v1a.ipynb)
