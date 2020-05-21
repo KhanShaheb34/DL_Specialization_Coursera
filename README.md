@@ -40,7 +40,7 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 
 ## Course-2: [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 
-### Week-5: Practical aspects of Deep Learning
+### Week-1: Practical aspects of Deep Learning
 
 #### Assignments
 
@@ -48,13 +48,13 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 - [Regularization](/Course2/Week1/Assignments/2/Regularization_v2a.ipynb)
 - [Gradient Checking](/Course2/Week1/Assignments/3/Gradient+Checking+v1.ipynb)
 
-### Week-6: Optimization algorithms
+### Week-2: Optimization algorithms
 
 #### Assignments
 
 - [Optimization](/Course2/Week2/Assignments/Optimization_methods_v1b.ipynb)
 
-### Week-6: Hyperparameter tuning, Batch Normalization and Programming Frameworks
+### Week-3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 #### Assignments
 
@@ -62,8 +62,20 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 
 > [📜 Certificate](/Certificates/Coursera-S28RU3GTXJWQ.pdf)
 
+---
+
 ## Course-3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 
 This course does not have any Programming Assignments.
 
 > [📜 Certificate](/Certificates/Coursera-W74F4Z2E5WXZ.pdf)
+
+---
+
+## Course-4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
+
+### Week-1: Foundations of Convolutional Neural Networks
+
+#### Assignments
+
+- [Convolutional Model: step by step](/Course4/Assignments/Convolution_model_Step_by_Step_v2a.ipynb)
