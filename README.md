@@ -78,6 +78,12 @@ This course does not have any Programming Assignments.
 
 #### Assignments
 
-- [Convolutional Model: step by step](/Course4/Assignments/Convolution_model_Step_by_Step_v2a.ipynb)
+- [Convolutional Model: step by step](/Course4/Week1/Assignments/Convolution_model_Step_by_Step_v2a.ipynb)
+- [Convolutional Neural Networks: Application](/Course4/Week1/Assignments/Convolution_model_Application_v1a.ipynb)
 
-- [Convolutional Neural Networks: Application](/Course4/Assignments/Convolution_model_Application_v1a.ipynb)
+### Week-2: Deep convolutional models: case studies
+
+#### Assignments
+
+- [Keras Tutorial](/Course4/Week2/KerasTutorial/Keras_Tutorial_v2a.ipynb)
+- [Residual Networks](/Course4/Week2/ResNets/Residual_Networks_v2a.ipynb)
