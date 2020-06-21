@@ -87,3 +87,37 @@ This course does not have any Programming Assignments.
 
 - [Keras Tutorial](/Course4/Week2/KerasTutorial/Keras_Tutorial_v2a.ipynb)
 - [Residual Networks](/Course4/Week2/ResNets/Residual_Networks_v2a.ipynb)
+
+### Week-3: Deep convolutional models: case studies
+
+#### Assignments
+
+- [Autonomous Driving Application Car Detection](/Course4/Week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
+
+### Week-4: Deep convolutional models: case studies
+
+#### Assignments
+
+- [Face Recognition](/Course4/Week4/Face%20Recognition/Face_Recognition_v3a.ipynb)
+- [Art Generation with Neural Style Transfer](/Course4/Week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+
+> [📜 Certificate](/Certificates/Coursera-TH3YYLMTN259.pdf)
+
+---
+
+## Course-5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
+### Week-1: Recurrent Neural Network
+
+#### Assignments
+
+- [Building a Recurrent Neural Network: step by step](/Course5/Week1/Assignment1/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)
+- [Dinosaurus Island: Character level language model](/Course5/Week1/Assignment2/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
+- [Improvise a Jazz Solo with an LSTM Network](/Course5/Week1/Assignment3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+
+### Week-2: Natural Language Processing and Word Embeddings
+
+#### Assignments
+
+- [Operations on word vectors](/Course5/Week2/Assignment1/Operations_on_word_vectors_v2a.ipynb)
+- [Emojify](/Course5/Week2/Assignment2/Emojify_v2a.ipynb)
