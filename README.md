@@ -121,3 +121,14 @@ This course does not have any Programming Assignments.
 
 - [Operations on word vectors](/Course5/Week2/Assignment1/Operations_on_word_vectors_v2a.ipynb)
 - [Emojify](/Course5/Week2/Assignment2/Emojify_v2a.ipynb)
+
+### Week-3: Sequence models & Attention mechanism
+
+#### Assignments
+
+- [Neural machine translation with attention](/Course5/Week3/Assignment1/Neural_machine_translation_with_attention_v4a.ipynb)
+- [Trigger word detection](/Course5/Week3/Assignment2/Trigger_word_detection_v1a.ipynb)
+
+> [📜 Certificate](/Certificates/Coursera-VMR7LSEH8UYN.pdf)
+
+> ## [📜 Specialization Certificate](/Certificates/Coursera-A84SHYDNYS6Q.pdf)
