@@ -32,8 +32,6 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 - [Building your Deep Neural Network: Step by Step](/Course1/Week4/Assignments/1/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 - [Deep Neural Network Application](/Course1/Week4/Assignments/2/Deep+Neural+Network+-+Application+v8.ipynb)
 
-> [📜 Certificate](/Certificates/Coursera-P2H6W8U2JH99.pdf)
-
 > Built a [Bangla Handwritten Digits Recognization System](https://github.com/KhanShaheb34/Bangla-Handwritten-Digit-Recognition/blob/master/BHDR_Deep_Neural_Net.ipynb) based on the knowledge from this week.
 
 ---
@@ -60,15 +58,11 @@ All of the codes, assignments for Deep Learning Specialization Course on Courser
 
 - [Tensorflow](/Course2/Week3/Assignments/TensorFlow_Tutorial_v3b.ipynb)
 
-> [📜 Certificate](/Certificates/Coursera-S28RU3GTXJWQ.pdf)
-
 ---
 
 ## Course-3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 
 This course does not have any Programming Assignments.
-
-> [📜 Certificate](/Certificates/Coursera-W74F4Z2E5WXZ.pdf)
 
 ---
 
@@ -101,8 +95,6 @@ This course does not have any Programming Assignments.
 - [Face Recognition](/Course4/Week4/Face%20Recognition/Face_Recognition_v3a.ipynb)
 - [Art Generation with Neural Style Transfer](/Course4/Week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 
-> [📜 Certificate](/Certificates/Coursera-TH3YYLMTN259.pdf)
-
 ---
 
 ## Course-5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
@@ -128,7 +120,3 @@ This course does not have any Programming Assignments.
 
 - [Neural machine translation with attention](/Course5/Week3/Assignment1/Neural_machine_translation_with_attention_v4a.ipynb)
 - [Trigger word detection](/Course5/Week3/Assignment2/Trigger_word_detection_v1a.ipynb)
-
-> [📜 Certificate](/Certificates/Coursera-VMR7LSEH8UYN.pdf)
-
-> ## [📜 Specialization Certificate](/Certificates/Coursera-A84SHYDNYS6Q.pdf)
